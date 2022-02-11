@@ -52,8 +52,7 @@ public class TestSolution {
       System.out.println("Elvart:"+newLine+expected);
       System.out.println("Aktualis:"+newLine+actual);
 
-      boolean found=actual.contains(expected);
 
-      Assertions.assertTrue(found,"Az eredményt nem jól határozta meg");
+      Assertions.assertEquals(expected,actual,"A teljes feladat merjelenitese nem megfelelo.");
    }
 }
