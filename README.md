@@ -1,6 +1,7 @@
 # 01-03-03-expression-heron
 # Héron képlet
 Kérje be egy tetszőleges háromszög oldalainak a hosszát! Héron képlettel határozza meg a háromszög területét!
+A háromszög oldalai valós számok!
 
 
 A héron képletben a két tizedes jegyre kerekített s értékkel számoljon! Az eredményt egy tizede jegyre kerekítse!

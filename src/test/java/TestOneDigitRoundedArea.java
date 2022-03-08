@@ -45,7 +45,7 @@ public class TestOneDigitRoundedArea {
       System.setIn(stdin);
       System.setOut(stdout);
 
-      String expected="A haromszog terulete:12.1";
+      String expected="A haromszog terulete:12.0";
       String actual=byteArrayOutputStream.toString();
 
       System.out.println("Elvart:"+newLine+expected);
